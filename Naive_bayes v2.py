@@ -54,7 +54,7 @@ data = cont2dis(iris.data)
 
 
 def Train_NB (target, attributes):
-    ''' Naive Bayes classification algorithm '''
+    ''' Train Naive Bayes classification algorithm '''
 
 
 ## sort target vals for correct indexing
