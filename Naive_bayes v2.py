@@ -2,6 +2,10 @@
 """
 Created on Fri Aug 17 15:14:39 2018
 
+Naive Bayes algorithm, which uses predict and train functions, similar to the Caret package in R.
+
+Also a simple (and slightly crude) utility function to convert continuous variables to discrete. 
+
 @author: Oli
 """
 
